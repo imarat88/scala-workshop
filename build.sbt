@@ -4,6 +4,6 @@ ThisBuild / scalaVersion := "2.13.10"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "SQL-DSL",
-    idePackagePrefix := Some("org.marat.type.level")
+    name := "programming-type-level",
+    idePackagePrefix := Some("org.marat.typelevel")
   )

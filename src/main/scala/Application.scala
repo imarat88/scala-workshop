@@ -1,4 +1,4 @@
-package org.marat.`type`.level
+package org.marat.typelevel
 
 object Application {
 
